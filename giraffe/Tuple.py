@@ -1,3 +1,4 @@
+
 '''
 coordinates = (4, 5)
 #coordinates[1] = 10 will throw an error as TUPLE is immutable, cannot be changed or modified
